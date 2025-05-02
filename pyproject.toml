@@ -1,6 +1,6 @@
 [project]
 name = "ai-art-coach"
-version = "0.1.0"
+version = "0.1.1"
 description = "An AI-powered artwork enhancer web app"
 authors = [{name = "DheerajPasupuleti", email = "dheerajp2112@gmail.com"}]
 dependencies = [
