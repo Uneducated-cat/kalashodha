@@ -2,6 +2,8 @@
 users.json
 *.jpg
 *.DS_Store
+test-env/
+dist/
 
 # Python-specific ignores
 __pycache__/
