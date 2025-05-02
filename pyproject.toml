@@ -1,0 +1,17 @@
+[project]
+name = "ai-art-coach"
+version = "0.1.0"
+description = "An AI-powered artwork enhancer web app"
+authors = [{name = "DheerajPasupuleti", email = "dheerajp2112@gmail.com"}]
+dependencies = [
+    "pillow",
+    "gradio",
+    "ollama",
+    "numpy",
+    "scikit-learn"
+]
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

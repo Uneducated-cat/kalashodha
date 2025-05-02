@@ -1,0 +1,24 @@
+# Existing entries
+users.json
+*.jpg
+*.DS_Store
+
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build and distribution files
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Editor and OS files
+.DS_Store
+*.swp
