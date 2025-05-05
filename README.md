@@ -20,4 +20,4 @@ AI Artwork Enhancer is a web-based tool that provides technical analysis and aut
 - Pillow (PIL) for image processing
 - NumPy for numerical operations
 - scikit-learn for KMeans clustering
-- Ollama + LLaVA for AI-powered image analysis
+- Ollama + LLaVA for AI-powered image analysis.
